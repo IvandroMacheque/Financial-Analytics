@@ -47,11 +47,12 @@ O projeto segue o modelo de Single Page Application (SPA) com troca de estados (
 - Módulo de Machine Learning para previsão de inadimplência.
 
 ## 👨‍💻 Autor
-Ivandro Macheque - Desenvolvedor de Soluções de Automação & Data Analytics.
+**Ivandro Macheque** - Desenvolvedor de Soluções de Automação & Data Analytics.
 
-"Transformando processos manuais em sistemas escaláveis."
+*"Transformando processos manuais em sistemas escaláveis."*
 
 ## Nota
 Este projeto foca na lógica de negócio e processamento de dados eficiente. A arquitetura de callbacks do Dash foi otimizada para minimizar o overhead de memória, utilizando o dcc.Store para manter a fluidez da UI enquanto o Pandas lida com a computação pesada no background.
+
 
 
