@@ -7,6 +7,7 @@ import dash_bootstrap_components as dbc
 from dash_bootstrap_templates import ThemeSwitchAIO
 import plotly.express as px
 import plotly.graph_objects as go
+import os
 
 # -------------------------------
 # Inicialização da app
