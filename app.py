@@ -12,6 +12,7 @@ import plotly.graph_objects as go
 # Inicialização da app
 # -------------------------------
 app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP], suppress_callback_exceptions=True)
+server = app.server
 app.title = "Dashboard de Vendas"
 
 tab_card = {"height":"100%"}
