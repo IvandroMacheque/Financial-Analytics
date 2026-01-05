@@ -25,33 +25,20 @@ O sistema possui um motor de validação que verifica a integridade do arquivo e
 - **Interface Responsiva**: Desenvolvida com Bootstrap Grid System para adaptação a diferentes tamanhos de ecrã.
 
 ## 🛠 Stack Tecnológica
-**Python**:	Linguagem core do sistema
-**Pandas**:	Engine de processamento e limpeza de dados (ETL)
-**Dash / Plotly**:	Framework para interface web e gráficos interativos
-**Dash Bootstrap**: Components	Estilização e componentes de UI responsiva
-**JSON/Store**:	Gestão de estado e persistência de dados em sessão
+- **Python**:	Linguagem core do sistema
+- **Pandas**:	Engine de processamento e limpeza de dados (ETL)
+- **Dash / Plotly**:	Framework para interface web e gráficos interativos
+- **Dash Bootstrap**: Components	Estilização e componentes de UI responsiva
+- **JSON/Store**:	Gestão de estado e persistência de dados em sessão
 
 ## 🏗 Estrutura do Projeto e Lógica
 O projeto segue o modelo de Single Page Application (SPA) com troca de estados (dcc.Store):
-**Tela de Upload**: O utilizador submete o ficheiro. O backend processa o arquivo via io.BytesIO, realiza o parsing com Pandas, limpa duplicados e trata datas.
-**Processamento Financeiro**:
+1. **Tela de Upload**: O utilizador submete o ficheiro. O backend processa o arquivo via io.BytesIO, realiza o parsing com Pandas, limpa duplicados e trata datas.
+2. **Processamento Financeiro**:
  - Separação de fluxos (Receita/Despesa).
  - Cálculo de métricas de impacto (Diferença entre fluxo real e projetado).
  - Agrupamento por categorias para análise de Pareto.
-**Visualização**: Os dados processados alimentam os callbacks reativos que atualizam os gráficos Plotly sem necessidade de recarregar a página.
-
-## ⚙️ Como Executar
-1. **Clonar o repositório**:
-git clone https://github.com/teu-usuario/financial-dashboard.git
-cd financial-dashboard
-
-4. **Instalar dependências**:
-pip install pandas dash dash-bootstrap-components dash-bootstrap-templates plotly
-
-5. **Executar a aplicação**:
-python app.py
-
-A aplicação estará disponível em http://127.0.0.1:8050
+ 3. **Visualização**: Os dados processados alimentam os callbacks reativos que atualizam os gráficos Plotly sem necessidade de recarregar a página.
 
 ## 📈 Roadmap / Futuro do Projeto
 - Implementar autenticação de utilizadores (Login/Signup).
@@ -66,4 +53,5 @@ Ivandro Macheque - Desenvolvedor de Soluções de Automação & Data Analytics.
 
 ## Nota
 Este projeto foca na lógica de negócio e processamento de dados eficiente. A arquitetura de callbacks do Dash foi otimizada para minimizar o overhead de memória, utilizando o dcc.Store para manter a fluidez da UI enquanto o Pandas lida com a computação pesada no background.
+
 
