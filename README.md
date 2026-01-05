@@ -45,10 +45,10 @@ O projeto segue o modelo de Single Page Application (SPA) com troca de estados (
 git clone https://github.com/teu-usuario/financial-dashboard.git
 cd financial-dashboard
 
-2. **Instalar dependências**:
+4. **Instalar dependências**:
 pip install pandas dash dash-bootstrap-components dash-bootstrap-templates plotly
 
-3. **Executar a aplicação**:
+5. **Executar a aplicação**:
 python app.py
 
 A aplicação estará disponível em http://127.0.0.1:8050
@@ -66,3 +66,4 @@ Ivandro Macheque - Desenvolvedor de Soluções de Automação & Data Analytics.
 
 ## Nota
 Este projeto foca na lógica de negócio e processamento de dados eficiente. A arquitetura de callbacks do Dash foi otimizada para minimizar o overhead de memória, utilizando o dcc.Store para manter a fluidez da UI enquanto o Pandas lida com a computação pesada no background.
+
