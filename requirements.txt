@@ -4,3 +4,4 @@ dash-bootstrap-templates
 pandas
 plotly
 openpyxl
+gunicorn
