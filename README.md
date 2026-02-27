@@ -2,6 +2,9 @@
 
 Transformando dados brutos em decisões estratégicas através da automação inteligente.
 
+## 🔗 Link do Projeto
+- **Live Demo:** https://financial-analytics-4jch.onrender.com
+
 ## 🧩 O Problema
 Pequenas e médias empresas (PMEs) perdem, em média, **5 a 10 horas semanais** compilando dados financeiros manualmente. O uso excessivo de Excel estático resulta em:
 - **Erros de integridade**: Dados duplicados ou fórmulas quebradas.
@@ -53,6 +56,7 @@ O projeto segue o modelo de Single Page Application (SPA) com troca de estados (
 
 ## Nota
 Este projeto foca na lógica de negócio e processamento de dados eficiente. A arquitetura de callbacks do Dash foi otimizada para minimizar o overhead de memória, utilizando o dcc.Store para manter a fluidez da UI enquanto o Pandas lida com a computação pesada no background.
+
 
 
 
