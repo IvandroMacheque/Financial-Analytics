@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.DS_Store
+.vscode/
+dashboard-financeiro/node_modules/
+dashboard-financeiro/dist/
+*.pyc
+__pycache__/
+.env
