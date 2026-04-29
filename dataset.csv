@@ -1,0 +1,228 @@
+Data,Tipo,Categoria,Subcategoria,Descrição,Valor,Centro de Custo,Forma de Pagamento,Status
+01/01/2024,Receita,Vendas,Produto A,Venda Online Site,1500.00,Vendas,Cartão de Crédito,Paga
+02/01/2024,Despesa,Operacionais,Aluguel,Aluguel Escritório Jan, -800.00,Administrativo,Boleto,Paga
+03/01/2024,Receita,Serviços,Consultoria,Consultoria Projeto Alpha,2500.00,Serviços,PIX,Paga
+04/01/2024,Despesa,Pessoal,Salários,Salário Funcionário 1 Jan, -1200.00,Administrativo,PIX,Paga
+05/01/2024,Receita,Vendas,Produto B,Venda Loja Física,800.00,Vendas,Dinheiro,Paga
+06/01/2024,Despesa,Marketing,Mídias Digitais,Campanha Facebook Jan, -350.00,Marketing,Cartão de Crédito,Paga
+07/01/2024,Receita,Serviços,Manutenção,Manutenção Sistema Interno,600.00,Serviços,Boleto,Paga
+08/01/2024,Despesa,Operacionais,Material Escritório,Compras Papelaria, -150.00,Administrativo,PIX,Paga
+09/01/2024,Receita,Vendas,Produto C,Venda Online Marketplace,2000.00,Vendas,Cartão de Crédito,Paga
+10/01/2024,Despesa,Operacionais,Transporte,Combustível Entregas, -100.00,Produção,Dinheiro,Paga
+11/01/2024,Receita,Vendas,Produto A,Venda Loja Física,1200.00,Vendas,PIX,Paga
+12/01/2024,Despesa,Operacionais,Contas Consumo,Conta de Luz Jan, -250.00,Administrativo,Boleto,Paga
+13/01/2024,Receita,Serviços,Treinamento,Treinamento Equipe Interna,1800.00,Serviços,PIX,Paga
+14/01/2024,Despesa,Marketing,Google Ads,Campanha Google Jan, -200.00,Marketing,Cartão de Crédito,Paga
+15/01/2024,Despesa,Pessoal,Salários,Salário Funcionário 2 Jan, -1100.00,Administrativo,PIX,Paga
+16/01/2024,Receita,Vendas,Produto B,Venda Online Site,950.00,Vendas,Cartão de Crédito,Paga
+17/01/2024,Despesa,Operacionais,Aluguel,Aluguel Escritório Fev, -800.00,Administrativo,Boleto,Paga
+18/01/2024,Receita,Serviços,Consultoria,Consultoria Projeto Beta,3000.00,Serviços,PIX,Paga
+19/01/2024,Despesa,Marketing,Designer,Contratação Designer Freelancer, -400.00,Marketing,PIX,Paga
+20/01/2024,Receita,Vendas,Produto C,Venda Loja Física,1700.00,Vendas,Dinheiro,Paga
+21/01/2024,Despesa,Pessoal,Salários,Salário Funcionário 1 Fev, -1200.00,Administrativo,PIX,Paga
+22/01/2024,Receita,Serviços,Suporte,Suporte Técnico Cliente VIP,750.00,Serviços,Boleto,Paga
+23/01/2024,Despesa,Operacionais,Material Escritório,Suprimentos Impressão, -80.00,Administrativo,PIX,Paga
+24/01/2024,Receita,Vendas,Produto A,Venda Online Marketplace,1100.00,Vendas,Cartão de Crédito,Paga
+25/01/2024,Despesa,Operacionais,Manutenção Equip.,Manutenção Servidor, -300.00,Produção,Boleto,Paga
+26/01/2024,Receita,Serviços,Desenvolvimento,Desenvolvimento Novo Módulo,2200.00,Serviços,PIX,Pendente
+27/01/2024,Despesa,Operacionais,Internet,Conta de Internet Fev, -180.00,Administrativo,Boleto,Paga
+28/01/2024,Receita,Vendas,Produto B,Venda Loja Física,1300.00,Vendas,Dinheiro,Paga
+29/01/2024,Despesa,Pessoal,Salários,Salário Funcionário 2 Fev, -1100.00,Administrativo,PIX,Paga
+30/01/2024,Receita,Serviços,Consultoria,Consultoria Projeto Gamma,2800.00,Serviços,PIX,Paga
+31/01/2024,Despesa,Marketing,Eventos,Participação Feira Setorial, -500.00,Marketing,Cartão de Crédito,Paga
+01/02/2024,Receita,Vendas,Produto C,Venda Online Site,1900.00,Vendas,Cartão de Crédito,Paga
+02/02/2024,Despesa,Operacionais,Aluguel,Aluguel Escritório Mar, -800.00,Administrativo,Boleto,Paga
+03/02/2024,Receita,Serviços,Treinamento,Workshop Cliente Corporativo,2600.00,Serviços,PIX,Paga
+04/02/2024,Despesa,Pessoal,Salários,Salário Funcionário 1 Mar, -1200.00,Administrativo,PIX,Paga
+05/02/2024,Receita,Vendas,Produto A,Venda Loja Física,1400.00,Vendas,Dinheiro,Paga
+06/02/2024,Despesa,Marketing,Mídias Digitais,Campanha Instagram Mar, -400.00,Marketing,Cartão de Crédito,Paga
+07/02/2024,Receita,Serviços,Manutenção,Contrato Manutenção Anual,1000.00,Serviços,Boleto,Paga
+08/02/2024,Despesa,Operacionais,Softwares,Assinatura Software Gestão, -200.00,Administrativo,Cartão de Crédito,Paga
+09/02/2024,Receita,Vendas,Produto B,Venda Online Marketplace,1600.00,Vendas,Cartão de Crédito,Paga
+10/02/2024,Despesa,Operacionais,Transporte,Frete Produtos, -120.00,Produção,Boleto,Paga
+11/02/2024,Receita,Vendas,Produto C,Venda Loja Física,1800.00,Vendas,PIX,Paga
+12/02/2024,Despesa,Operacionais,Contas Consumo,Conta de Água Mar, -100.00,Administrativo,Boleto,Paga
+13/02/2024,Receita,Serviços,Consultoria,Consultoria Projeto Delta,2900.00,Serviços,PIX,Paga
+14/02/2024,Despesa,Marketing,Google Ads,Anúncios de Retargeting, -250.00,Marketing,Cartão de Crédito,Paga
+15/02/2024,Despesa,Pessoal,Salários,Salário Funcionário 2 Mar, -1100.00,Administrativo,PIX,Paga
+16/02/2024,Receita,Vendas,Produto A,Venda Online Site,1350.00,Vendas,Cartão de Crédito,Paga
+17/02/2024,Despesa,Operacionais,Material Escritório,Material de Limpeza, -90.00,Administrativo,PIX,Paga
+18/02/2024,Receita,Serviços,Suporte,Suporte Técnico Remoto,800.00,Serviços,Boleto,Pendente
+19/02/2024,Despesa,Investimento,Hardware,Compra Novo Servidor, -1500.00,Produção,Boleto,Paga
+20/02/2024,Receita,Vendas,Produto B,Venda Loja Física,1050.00,Vendas,Dinheiro,Paga
+21/02/2024,Despesa,Operacionais,Manutenção Equip.,Calibração Máquinas, -450.00,Produção,PIX,Paga
+22/02/2024,Receita,Serviços,Desenvolvimento,Atualização de Software,2400.00,Serviços,PIX,Pendente
+23/02/2024,Despesa,Operacionais,Taxas Bancárias,Tarifas Mensais, -50.00,Administrativo,Débito Automático,Paga
+24/02/2024,Receita,Vendas,Produto C,Venda Online Marketplace,1750.00,Vendas,Cartão de Crédito,Paga
+25/02/2024,Despesa,Pessoal,Benefícios,Vale Transporte Mar, -150.00,Administrativo,Boleto,Paga
+26/02/2024,Receita,Serviços,Consultoria,Consultoria Estratégica,3200.00,Serviços,PIX,Paga
+27/02/2024,Despesa,Marketing,Eventos,Stand Feira Local, -600.00,Marketing,Cartão de Crédito,Paga
+28/02/2024,Despesa,Pessoal,Salários,Salário Funcionário 3 Mar, -1000.00,Administrativo,PIX,Paga
+01/03/2024,Receita,Vendas,Produto A,Venda Online Site,1600.00,Vendas,Cartão de Crédito,Paga
+02/03/2024,Despesa,Operacionais,Aluguel,Aluguel Escritório Abr, -800.00,Administrativo,Boleto,Paga
+03/03/2024,Receita,Serviços,Treinamento,Treinamento In-company,2700.00,Serviços,PIX,Paga
+04/03/2024,Despesa,Pessoal,Salários,Salário Funcionário 1 Abr, -1200.00,Administrativo,PIX,Paga
+05/03/2024,Receita,Vendas,Produto B,Venda Loja Física,900.00,Vendas,Dinheiro,Paga
+06/03/2024,Despesa,Marketing,Mídias Digitais,Campanha YouTube Abr, -380.00,Marketing,Cartão de Crédito,Paga
+07/03/2024,Receita,Serviços,Manutenção,Serviço de Nuvem,700.00,Serviços,Boleto,Paga
+08/03/2024,Despesa,Operacionais,Material Escritório,Tintas para Impressora, -100.00,Administrativo,PIX,Paga
+09/03/2024,Receita,Vendas,Produto C,Venda Online Marketplace,2100.00,Vendas,Cartão de Crédito,Paga
+10/03/2024,Despesa,Operacionais,Transporte,Manutenção Frota, -200.00,Produção,Boleto,Paga
+11/03/2024,Receita,Vendas,Produto A,Venda Loja Física,1300.00,Vendas,PIX,Paga
+12/03/2024,Despesa,Operacionais,Contas Consumo,Conta de Gás Abr, -80.00,Administrativo,Boleto,Paga
+13/03/2024,Receita,Serviços,Consultoria,Consultoria Projeto Epsilon,3000.00,Serviços,PIX,Paga
+14/03/2024,Despesa,Marketing,Google Ads,Otimização de SEO, -220.00,Marketing,Cartão de Crédito,Paga
+15/03/2024,Despesa,Pessoal,Salários,Salário Funcionário 2 Abr, -1100.00,Administrativo,PIX,Paga
+16/03/2024,Receita,Vendas,Produto B,Venda Online Site,1000.00,Vendas,Cartão de Crédito,Pendente
+17/03/2024,Despesa,Operacionais,Material Escritório,Mobiliário Novo, -500.00,Administrativo,Boleto,Paga
+18/03/2024,Receita,Serviços,Suporte,Atendimento Emergencial,900.00,Serviços,Boleto,Paga
+19/03/2024,Despesa,Investimento,Software,Nova Licença ERP, -2000.00,Administrativo,Boleto,Paga
+20/03/2024,Receita,Vendas,Produto C,Venda Loja Física,1850.00,Vendas,Dinheiro,Paga
+21/03/2024,Despesa,Operacionais,Manutenção Equip.,Reparo Impressora, -120.00,Administrativo,PIX,Paga
+22/03/2024,Receita,Serviços,Desenvolvimento,Desenvolvimento Aplicativo Móvel,2600.00,Serviços,PIX,Pendente
+23/03/2024,Despesa,Operacionais,Taxas Bancárias,Manutenção Conta, -60.00,Administrativo,Débito Automático,Paga
+24/03/2024,Receita,Vendas,Produto A,Venda Online Marketplace,1800.00,Vendas,Cartão de Crédito,Paga
+25/03/2024,Despesa,Pessoal,Benefícios,Plano de Saúde Abr, -300.00,Administrativo,Boleto,Paga
+26/03/2024,Receita,Serviços,Consultoria,Consultoria de Marketing,3300.00,Serviços,PIX,Paga
+27/03/2024,Despesa,Marketing,Eventos,Patrocínio Local, -700.00,Marketing,Cartão de Crédito,Paga
+28/03/2024,Despesa,Pessoal,Salários,Salário Funcionário 3 Abr, -1000.00,Administrativo,PIX,Paga
+01/04/2024,Receita,Vendas,Produto A,Venda Online Site,1700.00,Vendas,Cartão de Crédito,Paga
+02/04/2024,Despesa,Operacionais,Aluguel,Aluguel Escritório Mai, -800.00,Administrativo,Boleto,Paga
+03/04/2024,Receita,Serviços,Treinamento,Curso Online,1500.00,Serviços,PIX,Pendente
+04/04/2024,Despesa,Pessoal,Salários,Salário Funcionário 1 Mai, -1200.00,Administrativo,PIX,Paga
+05/04/2024,Receita,Vendas,Produto B,Venda Loja Física,950.00,Vendas,Dinheiro,Paga
+06/04/2024,Despesa,Marketing,Mídias Digitais,Influenciadores Digitais, -450.00,Marketing,Cartão de Crédito,Paga
+07/04/2024,Receita,Serviços,Manutenção,Contrato de Suporte,800.00,Serviços,Boleto,Pendente
+08/04/2024,Despesa,Operacionais,Material Escritório,Utensílios de Cozinha, -70.00,Administrativo,PIX,Paga
+09/04/2024,Receita,Vendas,Produto C,Venda Online Marketplace,2200.00,Vendas,Cartão de Crédito,Paga
+10/04/2024,Despesa,Operacionais,Transporte,Taxi para Reunião, -50.00,Administrativo,Cartão de Crédito,Paga
+11/04/2024,Receita,Vendas,Produto A,Venda Loja Física,1400.00,Vendas,PIX,Paga
+12/04/2024,Despesa,Operacionais,Contas Consumo,Conta de Telefone Mai, -150.00,Administrativo,Boleto,Paga
+13/04/2024,Receita,Serviços,Consultoria,Consultoria Financeira,3100.00,Serviços,PIX,Paga
+14/04/2024,Despesa,Marketing,Google Ads,Auditoria SEO, -180.00,Marketing,Cartão de Crédito,Paga
+15/04/2024,Despesa,Pessoal,Salários,Salário Funcionário 2 Mai, -1100.00,Administrativo,PIX,Paga
+16/04/2024,Receita,Vendas,Produto B,Venda Online Site,1100.00,Vendas,Cartão de Crédito,Paga
+17/04/2024,Despesa,Operacionais,Material Escritório,Equipamento de Proteção, -300.00,Produção,Boleto,Paga
+18/04/2024,Receita,Serviços,Suporte,Upgrade de Plano,1000.00,Serviços,Boleto,Paga
+19/04/2024,Despesa,Investimento,Ferramentas,Assinatura Ferramenta de Design, -100.00,Marketing,Cartão de Crédito,Paga
+20/04/2024,Receita,Vendas,Produto C,Venda Loja Física,1900.00,Vendas,Dinheiro,Paga
+21/04/2024,Despesa,Operacionais,Manutenção Equip.,Revisão Veículos, -350.00,Produção,PIX,Paga
+22/04/2024,Receita,Serviços,Desenvolvimento,Customização ERP,2800.00,Serviços,PIX,Paga
+23/04/2024,Despesa,Operacionais,Taxas Bancárias,Taxa Cartão de Crédito, -80.00,Administrativo,Débito Automático,Paga
+24/04/2024,Receita,Vendas,Produto A,Venda Online Marketplace,1950.00,Vendas,Cartão de Crédito,Paga
+25/04/2024,Despesa,Pessoal,Benefícios,Vale Refeição Mai, -200.00,Administrativo,Boleto,Paga
+26/04/2024,Receita,Serviços,Consultoria,Mentoria Empresarial,3400.00,Serviços,PIX,Paga
+27/04/2024,Despesa,Marketing,Eventos,Workshop Interno, -200.00,Marketing,Cartão de Crédito,Paga
+28/04/2024,Despesa,Pessoal,Salários,Salário Funcionário 3 Mai, -1000.00,Administrativo,PIX,Paga
+01/05/2024,Receita,Vendas,Produto A,Venda Online Site,1800.00,Vendas,Cartão de Crédito,Paga
+02/05/2024,Despesa,Operacionais,Aluguel,Aluguel Escritório Jun, -800.00,Administrativo,Boleto,Paga
+03/05/2024,Receita,Serviços,Treinamento,Treinamento Presencial,2900.00,Serviços,PIX,Paga
+04/05/2024,Despesa,Pessoal,Salários,Salário Funcionário 1 Jun, -1200.00,Administrativo,PIX,Paga
+05/05/2024,Receita,Vendas,Produto B,Venda Loja Física,1000.00,Vendas,Dinheiro,Paga
+06/05/2024,Despesa,Marketing,Mídias Digitais,Campanha Tik Tok Jun, -500.00,Marketing,Cartão de Crédito,Paga
+07/05/2024,Receita,Serviços,Manutenção,Contrato Preventivo,850.00,Serviços,Boleto,Pendente
+08/05/2024,Despesa,Operacionais,Material Escritório,Papel A4, -60.00,Administrativo,PIX,Paga
+09/05/2024,Receita,Vendas,Produto C,Venda Online Marketplace,2300.00,Vendas,Cartão de Crédito,Paga
+10/05/2024,Despesa,Operacionais,Transporte,Combustível Viagem, -250.00,Administrativo,Cartão de Crédito,Paga
+11/05/2024,Receita,Vendas,Produto A,Venda Loja Física,1500.00,Vendas,PIX,Paga
+12/05/2024,Despesa,Operacionais,Contas Consumo,Conta de Água Jun, -90.00,Administrativo,Boleto,Paga
+13/05/2024,Receita,Serviços,Consultoria,Projeto de Expansão,3200.00,Serviços,PIX,Paga
+14/05/2024,Despesa,Marketing,Google Ads,Anúncios de Busca, -280.00,Marketing,Cartão de Crédito,Paga
+15/05/2024,Despesa,Pessoal,Salários,Salário Funcionário 2 Jun, -1100.00,Administrativo,PIX,Paga
+16/05/2024,Receita,Vendas,Produto B,Venda Online Site,1200.00,Vendas,Cartão de Crédito,Paga
+17/05/2024,Despesa,Operacionais,Material Escritório,Cadeiras Escritório, -700.00,Administrativo,Boleto,Paga
+18/05/2024,Receita,Serviços,Suporte,Consultoria Pré-venda,950.00,Vendas,Boleto,Paga
+19/05/2024,Despesa,Investimento,Hardware,Notebooks Novos, -2500.00,Administrativo,Boleto,Paga
+20/05/2024,Receita,Vendas,Produto C,Venda Loja Física,2000.00,Vendas,Dinheiro,Paga
+21/05/2024,Despesa,Operacionais,Manutenção Equip.,Troca de Peças, -180.00,Produção,PIX,Paga
+22/05/2024,Receita,Serviços,Desenvolvimento,Migração de Dados,2900.00,Serviços,PIX,Pendente
+23/05/2024,Despesa,Operacionais,Taxas Bancárias,Transferências TED, -70.00,Administrativo,Débito Automático,Paga
+24/05/2024,Receita,Vendas,Produto A,Venda Online Marketplace,2050.00,Vendas,Cartão de Crédito,Paga
+25/05/2024,Despesa,Pessoal,Benefícios,Vale Transporte Jun, -160.00,Administrativo,Boleto,Paga
+26/05/2024,Receita,Serviços,Consultoria,Workshop Liderança,3500.00,Serviços,PIX,Paga
+27/05/2024,Despesa,Marketing,Eventos,Lançamento de Produto, -800.00,Marketing,Cartão de Crédito,Paga
+28/05/2024,Despesa,Pessoal,Salários,Salário Funcionário 3 Jun, -1000.00,Administrativo,PIX,Paga
+01/06/2024,Receita,Vendas,Produto A,Venda Online Site,1900.00,Vendas,Cartão de Crédito,Paga
+02/06/2024,Despesa,Operacionais,Aluguel,Aluguel Escritório Jul, -800.00,Administrativo,Boleto,Paga
+03/06/2024,Receita,Serviços,Treinamento,Treinamento Online,2000.00,Serviços,PIX,Paga
+04/06/2024,Despesa,Pessoal,Salários,Salário Funcionário 1 Jul, -1200.00,Administrativo,PIX,Paga
+05/06/2024,Receita,Vendas,Produto B,Venda Loja Física,1100.00,Vendas,Dinheiro,Paga
+06/06/2024,Despesa,Marketing,Mídias Digitais,Campanha Twitter Jul, -300.00,Marketing,Cartão de Crédito,Paga
+07/06/2024,Receita,Serviços,Manutenção,Manutenção Predial,900.00,Serviços,Boleto,Pendente
+08/06/2024,Despesa,Operacionais,Material Escritório,Serviço de Limpeza, -200.00,Administrativo,PIX,Paga
+09/06/2024,Receita,Vendas,Produto C,Venda Online Marketplace,2400.00,Vendas,Cartão de Crédito,Paga
+10/06/2024,Despesa,Operacionais,Transporte,Custo de Entrega, -150.00,Produção,Dinheiro,Paga
+11/06/2024,Receita,Vendas,Produto A,Venda Loja Física,1600.00,Vendas,PIX,Paga
+12/06/2024,Despesa,Operacionais,Contas Consumo,Conta de Luz Jul, -280.00,Administrativo,Boleto,Paga
+13/06/2024,Receita,Serviços,Consultoria,Planejamento Estratégico,3300.00,Serviços,PIX,Paga
+14/06/2024,Despesa,Marketing,Google Ads,Renovação Domínio, -100.00,Marketing,Cartão de Crédito,Paga
+15/06/2024,Despesa,Pessoal,Salários,Salário Funcionário 2 Jul, -1100.00,Administrativo,PIX,Paga
+16/06/2024,Receita,Vendas,Produto B,Venda Online Site,1300.00,Vendas,Cartão de Crédito,Pendente
+17/06/2024,Despesa,Operacionais,Material Escritório,Decoração Escritório, -400.00,Administrativo,Boleto,Paga
+18/06/2024,Receita,Serviços,Suporte,Help Desk,1000.00,Serviços,Boleto,Paga
+19/06/2024,Despesa,Investimento,Marketing,Desenvolvimento Website, -3000.00,Marketing,Boleto,Paga
+20/06/2024,Receita,Vendas,Produto C,Venda Loja Física,2100.00,Vendas,Dinheiro,Paga
+21/06/2024,Despesa,Operacionais,Manutenção Equip.,Atualização de Software, -150.00,Administrativo,PIX,Paga
+22/06/2024,Receita,Serviços,Desenvolvimento,Consultoria DevOps,3000.00,Serviços,PIX,Pendente
+23/06/2024,Despesa,Operacionais,Taxas Bancárias,Juros de Empréstimo, -120.00,Administrativo,Débito Automático,Paga
+24/06/2024,Receita,Vendas,Produto A,Venda Online Marketplace,2150.00,Vendas,Cartão de Crédito,Paga
+25/06/2024,Despesa,Pessoal,Benefícios,Férias Funcionário 1, -1500.00,Administrativo,Boleto,Paga
+26/06/2024,Receita,Serviços,Consultoria,Auditoria Interna,3600.00,Serviços,PIX,Paga
+27/06/2024,Despesa,Marketing,Eventos,Webinar Gratuito, -100.00,Marketing,Cartão de Crédito,Paga
+28/06/2024,Despesa,Pessoal,Salários,Salário Funcionário 3 Jul, -1000.00,Administrativo,PIX,Paga
+01/07/2024,Receita,Vendas,Produto A,Venda Online Site,2000.00,Vendas,Cartão de Crédito,Paga
+02/07/2024,Despesa,Operacionais,Aluguel,Aluguel Escritório Ago, -800.00,Administrativo,Boleto,Paga
+03/07/2024,Receita,Serviços,Treinamento,Treinamento Liderança,2500.00,Serviços,PIX,Paga
+04/07/2024,Despesa,Pessoal,Salários,Salário Funcionário 1 Ago, -1200.00,Administrativo,PIX,Paga
+05/07/2024,Receita,Vendas,Produto B,Venda Loja Física,1200.00,Vendas,Dinheiro,Paga
+06/07/2024,Despesa,Marketing,Mídias Digitais,Campanha LinkedIn Ago, -400.00,Marketing,Cartão de Crédito,Paga
+07/07/2024,Receita,Serviços,Manutenção,Contrato Anual,950.00,Serviços,Boleto,Paga
+08/07/2024,Despesa,Operacionais,Material Escritório,Renovação Material, -120.00,Administrativo,PIX,Paga
+09/07/2024,Receita,Vendas,Produto C,Venda Online Marketplace,2500.00,Vendas,Cartão de Crédito,Paga
+10/07/2024,Despesa,Operacionais,Transporte,Custo de Frete, -180.00,Produção,Boleto,Paga
+11/07/2024,Receita,Vendas,Produto A,Venda Loja Física,1700.00,Vendas,PIX,Paga
+12/07/2024,Despesa,Operacionais,Contas Consumo,Conta de Água Ago, -110.00,Administrativo,Boleto,Paga
+13/07/2024,Receita,Serviços,Consultoria,Consultoria de Inovação,3400.00,Serviços,PIX,Paga
+14/07/2024,Despesa,Marketing,Google Ads,Renovação Ferramenta SEO, -150.00,Marketing,Cartão de Crédito,Paga
+15/07/2024,Despesa,Pessoal,Salários,Salário Funcionário 2 Ago, -1100.00,Administrativo,PIX,Paga
+16/07/2024,Receita,Vendas,Produto B,Venda Online Site,1400.00,Vendas,Cartão de Crédito,Pendente
+17/07/2024,Despesa,Operacionais,Material Escritório,Limpeza Profissional, -250.00,Administrativo,Boleto,Paga
+18/07/2024,Receita,Serviços,Suporte,Resolução de Bug,1050.00,Serviços,Boleto,Paga
+19/07/2024,Despesa,Investimento,Pesquisa,Estudo de Mercado, -700.00,Marketing,Cartão de Crédito,Paga
+20/07/2024,Receita,Vendas,Produto C,Venda Loja Física,2200.00,Vendas,Dinheiro,Paga
+21/07/2024,Despesa,Operacionais,Manutenção Equip.,Revisão de Máquinas, -200.00,Produção,PIX,Paga
+22/07/2024,Receita,Serviços,Desenvolvimento,Implantação de CRM,3100.00,Serviços,PIX,Cancelada
+23/07/2024,Despesa,Operacionais,Taxas Bancárias,Tarifas de TED, -90.00,Administrativo,Débito Automático,Paga
+24/07/2024,Receita,Vendas,Produto A,Venda Online Marketplace,2250.00,Vendas,Cartão de Crédito,Paga
+25/07/2024,Despesa,Pessoal,Benefícios,Convênio Médico Ago, -400.00,Administrativo,Boleto,Paga
+26/07/2024,Receita,Serviços,Consultoria,Consultoria de Vendas,3700.00,Serviços,PIX,Paga
+27/07/2024,Despesa,Marketing,Eventos,Conferência Online, -300.00,Marketing,Cartão de Crédito,Paga
+28/07/2024,Despesa,Pessoal,Salários,Salário Funcionário 3 Ago, -1000.00,Administrativo,PIX,Paga
+01/08/2024,Receita,Vendas,Produto A,Venda Online Site,2100.00,Vendas,Cartão de Crédito,Paga
+02/08/2024,Despesa,Operacionais,Aluguel,Aluguel Escritório Set, -800.00,Administrativo,Boleto,Paga
+03/08/2024,Receita,Serviços,Treinamento,Treinamento Compliance,2600.00,Serviços,PIX,Paga
+04/08/2024,Despesa,Pessoal,Salários,Salário Funcionário 1 Set, -1200.00,Administrativo,PIX,Paga
+05/08/2024,Receita,Vendas,Produto B,Venda Loja Física,1300.00,Vendas,Dinheiro,Paga
+06/08/2024,Despesa,Marketing,Mídias Digitais,Campanha Instagram Set, -450.00,Marketing,Cartão de Crédito,Paga
+07/08/2024,Receita,Serviços,Manutenção,Contrato de Nível de Serviço,1000.00,Serviços,Boleto,Pendente
+08/08/2024,Despesa,Operacionais,Material Escritório,Reabastecimento Copa, -80.00,Administrativo,PIX,Paga
+09/08/2024,Receita,Vendas,Produto C,Venda Online Marketplace,2600.00,Vendas,Cartão de Crédito,Paga
+10/08/2024,Despesa,Operacionais,Transporte,Custo Logístico, -200.00,Produção,Boleto,Paga
+11/08/2024,Receita,Vendas,Produto A,Venda Loja Física,1800.00,Vendas,PIX,Paga
+12/08/2024,Despesa,Operacionais,Contas Consumo,Conta de Internet Set, -160.00,Administrativo,Boleto,Paga
+13/08/2024,Receita,Serviços,Consultoria,Otimização de Processos,3500.00,Serviços,PIX,Paga
+14/08/2024,Despesa,Marketing,Google Ads,Renovação Google Workspace, -120.00,Administrativo,Cartão de Crédito,Paga
+15/08/2024,Despesa,Pessoal,Salários,Salário Funcionário 2 Set, -1100.00,Administrativo,PIX,Paga
+16/08/2024,Receita,Vendas,Produto B,Venda Online Site,1500.00,Vendas,Cartão de Crédito,Paga
+17/08/2024,Despesa,Operacionais,Material Escritório,Compra de E-readers, -400.00,Administrativo,Boleto,Paga
+18/08/2024,Receita,Serviços,Suporte,SLA Premium Cliente X,1100.00,Serviços,Boleto,Pendente
+19/08/2024,Despesa,Investimento,Recursos Humanos,Treinamento Liderança, -800.00,Administrativo,PIX,Paga
+20/08/2024,Receita,Vendas,Produto C,Venda Loja Física,2300.00,Vendas,Dinheiro,Paga
+21/08/2024,Despesa,Operacionais,Manutenção Equip.,Troca de Bateria Notebook, -100.00,Administrativo,PIX,Paga
+22/08/2024,Receita,Serviços,Desenvolvimento,Manutenção Preventiva,3200.00,Serviços,PIX,Paga
+23/08/2024,Despesa,Operacionais,Taxas Bancárias,Anuidade Cartão, -60.00,Administrativo,Débito Automático,Paga
+24/08/2024,Receita,Vendas,Produto A,Venda Online Marketplace,2350.00,Vendas,Cartão de Crédito,Paga
+25/08/2024,Despesa,Pessoal,Benefícios,Plano Odontológico Set, -200.00,Administrativo,Boleto,Paga
+26/08/2024,Receita,Serviços,Consultoria,Gestão de Projetos,3800.00,Serviços,PIX,Paga
+27/08/2024,Despesa,Marketing,Eventos,Feira de Negócios, -1000.00,Marketing,Cartão de Crédito,Paga
+28/08/2024,Despesa,Pessoal,Salários,Salário Funcionário 3 Set, -1000.00,Administrativo,PIX,Paga
